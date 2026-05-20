@@ -69,6 +69,14 @@ AracKiralamaSistemi.sln dosyası Visual Studio 2022 ile açılır.
 Giriş ekranında kullanıcı adı ve şifre girilir.
 Ana ekrandan araç kiralama işlemleri yapılabilir.
 
+<img width="1100" height="650" alt="arac_islemleri" src="https://github.com/user-attachments/assets/8b89fef6-b143-44b4-8e27-5b7e53a04b9d" />
+
+<img width="1100" height="650" alt="kiralama_islemleri" src="https://github.com/user-attachments/assets/0a765d48-7045-4c9d-81f0-0c7c3c1927e5" />
+
+<img width="1100" height="650" alt="login" src="https://github.com/user-attachments/assets/336d2440-1a03-4868-a20c-4ba273604e5e" />
+
+<img width="1100" height="650" alt="raporlar" src="https://github.com/user-attachments/assets/13c0c4c4-3141-4651-a752-5688d60fb823" />
+
 # Hazırlayan
 
 Edanur Çelimli
